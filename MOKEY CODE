@@ -7,4 +7,4 @@ bot = commands.Bot(command_prefix='?')
 async def ping(ctx):
     await ctx.send('IDK IM NOT SMART')
 
-bot.run('ODkxODg5OTA4NDI2MzYyOTIx.YVE7NA.BFfzcUvGB4YG869InN_ynPl3AIY')
+bot.run('')
